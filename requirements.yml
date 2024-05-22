@@ -1,0 +1,4 @@
+---
+collections:
+  - name: theko2fi.multipass
+    source: https://galaxy.ansible.com
